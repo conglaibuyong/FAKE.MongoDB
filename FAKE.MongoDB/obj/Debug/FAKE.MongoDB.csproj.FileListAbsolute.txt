@@ -1,0 +1,17 @@
+D:\github\FAKE.MongoDB\FAKE.MongoDB\bin\Debug\FAKE.MongoDB.dll
+D:\github\FAKE.MongoDB\FAKE.MongoDB\bin\Debug\FAKE.MongoDB.pdb
+D:\github\FAKE.MongoDB\FAKE.MongoDB\obj\Debug\FAKE.MongoDB.csproj.CoreCompileInputs.cache
+D:\github\FAKE.MongoDB\FAKE.MongoDB\obj\Debug\FAKE.MongoDB.dll
+D:\github\FAKE.MongoDB\FAKE.MongoDB\obj\Debug\FAKE.MongoDB.pdb
+D:\github\FAKE.MongoDB\FAKE.MongoDB\bin\Debug\DnsClient.dll
+D:\github\FAKE.MongoDB\FAKE.MongoDB\bin\Debug\MongoDB.Bson.dll
+D:\github\FAKE.MongoDB\FAKE.MongoDB\bin\Debug\MongoDB.Driver.Core.dll
+D:\github\FAKE.MongoDB\FAKE.MongoDB\bin\Debug\MongoDB.Driver.dll
+D:\github\FAKE.MongoDB\FAKE.MongoDB\bin\Debug\System.Buffers.dll
+D:\github\FAKE.MongoDB\FAKE.MongoDB\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\github\FAKE.MongoDB\FAKE.MongoDB\bin\Debug\DnsClient.xml
+D:\github\FAKE.MongoDB\FAKE.MongoDB\bin\Debug\MongoDB.Bson.xml
+D:\github\FAKE.MongoDB\FAKE.MongoDB\bin\Debug\MongoDB.Driver.xml
+D:\github\FAKE.MongoDB\FAKE.MongoDB\bin\Debug\MongoDB.Driver.Core.xml
+D:\github\FAKE.MongoDB\FAKE.MongoDB\obj\Debug\FAKE.MongoDB.csproj.CopyComplete
+D:\github\FAKE.MongoDB\FAKE.MongoDB\obj\Debug\FAKE.MongoDB.csprojResolveAssemblyReference.cache
