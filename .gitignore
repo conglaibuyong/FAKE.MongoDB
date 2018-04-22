@@ -3,3 +3,5 @@
 packages
 tools
 FAKE.MongoDB/bin
+FAKE.MongoDB/obj
+.vs
